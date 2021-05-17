@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "\u0016index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xSelfiee/working-enviroment.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "xSelfiee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xSelfiee/working-enviroment/issues"
+  },
+  "homepage": "https://github.com/xSelfiee/working-enviroment#readme"
+}
